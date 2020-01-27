@@ -1,0 +1,19 @@
+---
+title: "partner.Rmd"
+author: "Stephanie Femrite"
+date: "1/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Partner Name: Britt Bovbjerg 
+GitHub Username: bovbjergb
+Git commit ID: 663235f71cb689c8ba7b7119a0a4d6874b490b20
+She submitted her homework
+I was able to knit without errors
+I had trouble navigating the file directories
